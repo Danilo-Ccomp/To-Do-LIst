@@ -1,4 +1,4 @@
-package br.com.SilvaDanilo.gerenciador_tarefas;
+package br.com.SilvaDanilo.gerenciador_tarefas.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
